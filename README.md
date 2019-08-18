@@ -3,7 +3,7 @@ Coding exercises and Problem Sets for The Complete Python Programming Course for
 
 All code in this course uses Python 3.x.
 # About this course
-What's Included
+What's Included:
 
     Programming Fundamentals
     Data Structures
