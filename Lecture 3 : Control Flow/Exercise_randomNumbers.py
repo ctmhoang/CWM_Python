@@ -29,6 +29,6 @@ print("end of loop\n")
 
 # Create a program that generates 100 random numbers and find the frequency of each number.
 listOfNums = [random.randint(1,100) for _ in range(100)]
-freqDict = {num : 0 for num in listOfNums if num not in freqDict.keys()}
-for num in listOfNims:
+freqDict = {num : 0 for num in listOfNums if num not in freqDict.keys()} #This expression is not valid in 3.7.4
+for num in listOfNums:
     freqDict[num] += 1
