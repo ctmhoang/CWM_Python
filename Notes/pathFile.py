@@ -13,3 +13,9 @@ print(path.parent)
 path = path.with_suffix(".txt")
 print(path)
 print(path.absolute())
+
+
+#path.mkdir
+#path.rmdir
+#path.rename("New name")
+#path.iterdir() #return a generator object (all of file and directory)
