@@ -1,5 +1,5 @@
 # [Code with Mosh] The Complete Python Programming Course for Beginners
-Coding exercises and notes for The Complete Python Programming Course for Beginners , Code With Mosh, Aug-Oct 2019
+Some exercises and notes for The Complete Python Programming Course for Beginners , Code With Mosh, Aug-Dec 2019
 
 All code in this course uses Python 3.x.
 # About this course
